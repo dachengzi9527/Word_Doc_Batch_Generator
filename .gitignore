@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Output files
+output/
+*.docx
+*.xlsx
+
+# Config / secrets
+config.ini
+.env
+
+# IDE
+.vscode/
+.idea/
